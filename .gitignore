@@ -1,0 +1,16 @@
+# Ignore object files
+*.o
+
+# Ignore executable files
+*.exe
+
+# Ignore debug files
+*.dSYM/
+
+# Ignore CMake files
+CMakeLists.txt
+cmake-build-debug/
+
+# Ignore JetBrains IDE files
+.idea/
+*.iml
